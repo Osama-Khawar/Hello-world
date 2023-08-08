@@ -16,6 +16,6 @@ type print ("Hello world") and press control + f5
 # ipynb
 open the VScode and create the file named as ipynb
 type print ("Hello world") and press control + f5
-# Goolge colab
+# Google colab
 open the google colab and write the code print("hello world")
 click on the run button .
